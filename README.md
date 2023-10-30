@@ -145,8 +145,8 @@ A partir d'un site existant (par exemple: [https://www.apple.com/fr/](https://ww
 
 ## **[📝] Bootstrap Challenge**
 
-* Projet : https://github.com/simplon-roanne/bootstrap-onemillionlines
-* Ressource : https://getbootstrap.com/docs/4.3/components/
+* Projet :[ GitHub - g404-dev-web/bootstrap-onemillionlines:...](https://github.com/simplon-roanne/bootstrap-onemillionlines)
+* Ressource :[ https://getbootstrap.com/docs/4.3/components/](https://getbootstrap.com/docs/4.3/components/)
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -203,7 +203,3 @@ Les métiers de Dev frontend (webdesigner, intégrateur, dev UX, dev front & Mob
 * [front-end-developer-handbook-2018.pdf - Google Drive](https://drive.google.com/file/d/1tNLh0lewxKzJ_mwHy1KEExTf37m8i9xp/view?usp=sharing)
 * [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)
 
-
-
-* Projet :[ GitHub - g404-dev-web/bootstrap-onemillionlines:...](https://github.com/simplon-roanne/bootstrap-onemillionlines)
-* Ressource :[ https://getbootstrap.com/docs/4.3/components/](https://getbootstrap.com/docs/4.3/components/)
