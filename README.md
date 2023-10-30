@@ -21,9 +21,9 @@ Présentation : [Ux/Ui what's the flux ?](https://docs.google.com/presentation/d
 
    
 **Pour aller plus loin...**  
-	* [8 règles pour organiser son code CSS – alticreation  ](https://www.alticreation.com/8-regles-organiser-code-css/)
-	* [30 CSS Best Practices for Beginners  ](https://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741)
-	* [CSS objet et CSS fonctionnel – 24 jours de web  ](https://www.24joursdeweb.fr/2018/css-objet-et-css-fonctionnel/)
+* [8 règles pour organiser son code CSS – alticreation  ](https://www.alticreation.com/8-regles-organiser-code-css/)
+* [30 CSS Best Practices for Beginners  ](https://code.tutsplus.com/tutorials/30-css-best-practices-for-beginners--net-6741)
+* [CSS objet et CSS fonctionnel – 24 jours de web  ](https://www.24joursdeweb.fr/2018/css-objet-et-css-fonctionnel/)
 
 ### 🏆 Objectifs
 * Comprendre les concepts de cascade, d'héritage et spécificité  
