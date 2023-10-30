@@ -31,8 +31,6 @@ Présentation : [Ux/Ui what's the flux ?](https://docs.google.com/presentation/d
 * Maîtriser les bases de l'intégration web  
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# L’intégration Web 
-
 
 # Chapitre 2 - Les framework CSS et l'intégration avancée
 
@@ -41,11 +39,12 @@ Présentation : [Ux/Ui what's the flux ?](https://docs.google.com/presentation/d
 
 	
 
-Présentation :[ Les framework CSS](https://docs.google.com/presentation/d/1_kvX59cz5ABPhWkFN-3JtHCumBtF3QggbxcpN0ylup4)
+Présentation :  
+[ Les framework CSS](https://docs.google.com/presentation/d/1_kvX59cz5ABPhWkFN-3JtHCumBtF3QggbxcpN0ylup4)  
 
-[Exemple d’utilisation du système de grid avec bootstrap](https://codepen.io/PedroIdmkr/pen/KGjGaq)
+[Exemple d’utilisation du système de grid avec bootstrap](https://codepen.io/PedroIdmkr/pen/KGjGaq)  
 
-[Exercices d'entraînements ](https://codepen.io/hamza-karfa/pen/JjZmeyP)
+[Exercices d'entraînements ](https://codepen.io/hamza-karfa/pen/JjZmeyP)  
 
 
 # ⛳ Exercices
@@ -54,7 +53,7 @@ Présentation :[ Les framework CSS](https://docs.google.com/presentation/d/1_kvX
 ### **Zoning**
 
 
-    A partir d'un site existant (par exemple: [https://www.apple.com/fr/](https://www.apple.com/fr/)),recréer les zoning suivants de la page d'accueil à l'aide d'un outil de prototypage :
+A partir d'un site existant (par exemple: [https://www.apple.com/fr/](https://www.apple.com/fr/)),recréer les zoning suivants de la page d'accueil à l'aide d'un outil de prototypage :
 
 
 
@@ -72,12 +71,10 @@ Présentation :[ Les framework CSS](https://docs.google.com/presentation/d/1_kvX
 ### **TP**
 
 
-## 
-    **👉️ Passons au concret avec votre première intégration ![ g404-dev-web/bootstrap-one million lines](https://github.com/simplon-roanne/bootstrap-onemillionlines)**
+**👉️ Passons au concret avec votre première intégration ![ g404-dev-web/bootstrap-one million lines](https://github.com/simplon-roanne/bootstrap-onemillionlines)**
 
 
-## 
-    **🔥 Votre premier gros défis une fois la compréhension de Bootstrap acquise sera de réaliser ce challenge :[ The Mountain !](https://github.com/g404-dev-web/bootstrap-challenge-the_mountain)**
+**🔥 Votre premier gros défis une fois la compréhension de Bootstrap acquise sera de réaliser ce challenge :[ The Mountain !](https://github.com/g404-dev-web/bootstrap-challenge-the_mountain)**
 
 
 # 💥 Extra
