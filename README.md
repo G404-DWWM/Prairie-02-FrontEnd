@@ -95,3 +95,57 @@ A partir d'un site existant (par exemple: [https://www.apple.com/fr/](https://ww
 * Comprendre les concepts de cascade, d'héritage et spécificité
 * Comprendre et maîtriser les bonnes pratiques de nommage de classes CSS
 * Maîtriser les bases de l'intégration web
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🔥 Extras
+
+**SEO**
+
+
+
+* Exercice 9 :[ front-end-prairie/ex9 at master · g404-dev-web/front-end-prairie · GitHub](https://github.com/g404-dev-web/front-end-prairie/tree/master/ex9)
+* Ressources :
+    * [Schemas - schema.org](https://schema.org/docs/schemas.html)
+    * [Référencement Google : tutoriels, actualités, conseils, forum](https://www.webrankinfo.com/)
+
+**Flexbox**
+
+
+
+* Exercice 10 :[ front-end-prairie/ex10 at master · g404-dev-web/front-end-prairie · GitHub](https://github.com/g404-dev-web/front-end-prairie/tree/master/ex10)
+* Play to learn :[ Flexbox Defense](http://www.flexboxdefense.com/)
+* Ressources :[ A Complete Guide to Flexbox | CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+**Grid**
+
+
+
+* Exercice 11 :[ front-end-prairie/ex11 at master · g404-dev-web/front-end-prairie · GitHub](https://github.com/g404-dev-web/front-end-prairie/tree/master/ex11)
+* Play to learn :[ Grid Garden - A game for learning CSS grid layout](https://cssgridgarden.com/)
+* Ressources :[ A Complete Guide to Grid | CSS-Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+**CSS 3D**
+
+
+
+* Exercice 12 :[ front-end-prairie/ex12 at master · g404-dev-web/front-end-prairie · GitHub](https://github.com/g404-dev-web/front-end-prairie/tree/master/ex12)
+
+
+## **Matérialisez une interface utilisateur**
+
+
+
+* Projet :[ GitHub - g404-dev-web/material-redesign: Matérialisez une...](https://github.com/g404-dev-web/material-redesign)
+* Ressources :
+    * [Design - Material Design](https://material.io/design/)
+    * [Material Design Lite](https://getmdl.io/started/)
+    * [Getting Started - Materialize](https://materializecss.com/getting-started.html)
+
+
+## **[📝] Bootstrap Challenge**
+
+
+
+* Projet :[ GitHub - g404-dev-web/bootstrap-onemillionlines:...](https://github.com/simplon-roanne/bootstrap-onemillionlines)
+* Ressource :[ https://getbootstrap.com/docs/4.3/components/](https://getbootstrap.com/docs/4.3/components/)
