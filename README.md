@@ -145,6 +145,60 @@ A partir d'un site existant (par exemple: [https://www.apple.com/fr/](https://ww
 
 ## **[📝] Bootstrap Challenge**
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🔧 Boite à outils
+
+Les métiers de Dev frontend (webdesigner, intégrateur, dev UX, dev front & Mobile) est sujet au même titre que les métiers de Dev backend à de nombreuses évolutions et nouveautés, c'est pourquoi il est d'autant plus important d'exécuter une veille quotidienne sur tous les sujets concernant le métier (tendances, technologies, growth hacking, webmarketing, news).
+
+🔗 **Chaque jour, postez votre meilleur lien sur le channel Discord #liens-utiles, l'un d'entre vous sera invité à présenter et expliquer son choix.**
+
+
+# **Liens utiles**
+
+
+
+* [Code Guide by](https://codeguide.co/)<span style="text-decoration:underline;"> </span>
+* [CSS Reference | Codrops](https://tympanus.net/codrops/css_reference/)
+* [CSS Almanac | CSS-Tricks](https://css-tricks.com/almanac/)
+* [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
+* [La Ferme du Web - Votre veille technologique quotidienne](https://www.lafermeduweb.net/)
+* [Codrops | Useful resources and inspiration for creative minds](https://tympanus.net/codrops/)
+* [Code Snippets | The Vanilla JS Toolkit](https://vanillajstoolkit.com/code-snippets/)
+* [Home of free code snippets for Bootstrap](https://bootsnipp.com/)
+* [NavNav - 90+ Responsive Navigation Bar Menu Tutorials,...](https://navnav.co/)
+* [Top 50 JavaScript Plugins & Libraries for 2017](https://speckyboy.com/top-50-javascript/)
+* [Google Fonts](https://fonts.google.com/)
+* [CodePen - Front End Developer Playground & Code Editor in the Browser](https://codepen.io/)
+* [CodyHouse | Web Design Nuggets](https://codyhouse.co/)
+
+
+# **Soft et ressources**
+
+
+
+* [CSS3 Generator](http://css3generator.com/)
+* [Animista](http://animista.net/)
+* [Vanilla JS Plugins | The Vanilla JS Toolkit](https://vanillajstoolkit.com/plugins/)
+* [Tools](http://styleguides.io/tools)
+* [cssnext - Use tomorrow’s CSS syntax, today.](http://cssnext.io/)
+* [CreateJS | A suite of JavaScript libraries and tools...](https://www.createjs.com/)
+* [Codeply](https://www.codeply.com/)
+* [Pretty checkbox | Custom checkbox and radio buttons in pure...](https://lokesh-coder.github.io/pretty-checkbox)
+* [Resource Cards - Selected free resources for designers](https://resourcecards.com/)
+* [Lorem Ipsum - All the facts - Lipsum generator](https://fr.lipsum.com/)
+* [Autoprefixer CSS online](http://autoprefixer.github.io/)
+* [SassMeister | The Sass Playground!](https://www.sassmeister.com/)
+
+
+# **A télécharger**
+
+
+
+* [https://jenseign.com/html/wp-content/uploads/2018/01/memo-html-apprendre-v1.50.pdf](https://jenseign.com/html/wp-content/uploads/2018/01/memo-html-apprendre-v1.50.pdf)
+* [front-end-developer-handbook-2018.pdf - Google Drive](https://drive.google.com/file/d/1tNLh0lewxKzJ_mwHy1KEExTf37m8i9xp/view?usp=sharing)
+* [Emmet Cheatsheet](https://docs.emmet.io/cheat-sheet/)
+
 
 
 * Projet :[ GitHub - g404-dev-web/bootstrap-onemillionlines:...](https://github.com/simplon-roanne/bootstrap-onemillionlines)
