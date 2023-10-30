@@ -71,7 +71,7 @@ A partir d'un site existant (par exemple: [https://www.apple.com/fr/](https://ww
 ### **TP**
 
 
-**👉️ Passons au concret avec votre première intégration ![ g404-dev-web/bootstrap-one million lines](https://github.com/simplon-roanne/bootstrap-onemillionlines)**
+**👉️ Passons au concret avec votre première intégration ! [g404-dev-web/bootstrap-one million lines](https://github.com/simplon-roanne/bootstrap-onemillionlines)**
 
 
 **🔥 Votre premier gros défis une fois la compréhension de Bootstrap acquise sera de réaliser ce challenge :[ The Mountain !](https://github.com/g404-dev-web/bootstrap-challenge-the_mountain)**
