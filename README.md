@@ -29,3 +29,72 @@ Présentation : [Ux/Ui what's the flux ?](https://docs.google.com/presentation/d
 * Comprendre les concepts de cascade, d'héritage et spécificité  
 * Comprendre et maîtriser les bonnes pratiques de nommage de classes CSS  
 * Maîtriser les bases de l'intégration web  
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# L’intégration Web 
+
+
+# Chapitre 2 - Les framework CSS et l'intégration avancée
+
+
+# 🎦 Présentation
+
+	
+
+Présentation :[ Les framework CSS](https://docs.google.com/presentation/d/1_kvX59cz5ABPhWkFN-3JtHCumBtF3QggbxcpN0ylup4)
+
+[Exemple d’utilisation du système de grid avec bootstrap](https://codepen.io/PedroIdmkr/pen/KGjGaq)
+
+[Exercices d'entraînements ](https://codepen.io/hamza-karfa/pen/JjZmeyP)
+
+
+# ⛳ Exercices
+
+
+### **Zoning**
+
+
+    A partir d'un site existant (par exemple: [https://www.apple.com/fr/](https://www.apple.com/fr/)),recréer les zoning suivants de la page d'accueil à l'aide d'un outil de prototypage :
+
+
+
+* Zoning desktop
+* Zoning tablette
+* Zoning mobile
+* Les différentes sections devront être annotées
+
+    Ressources :
+
+* [Wireframe.cc | The go-to wireframing tool.](https://wireframe.cc/)
+* [Zoning (wireframe ou mockup) pour les nuls : définition, cas d’usages](https://www.indexel.com/marketing-digital/zoning-nuls-definition-objectifs-cas-dusages-solutions#)
+
+
+### **TP**
+
+
+## 
+    **👉️ Passons au concret avec votre première intégration ![ g404-dev-web/bootstrap-one million lines](https://github.com/simplon-roanne/bootstrap-onemillionlines)**
+
+
+## 
+    **🔥 Votre premier gros défis une fois la compréhension de Bootstrap acquise sera de réaliser ce challenge :[ The Mountain !](https://github.com/g404-dev-web/bootstrap-challenge-the_mountain)**
+
+
+# 💥 Extra
+
+
+### **Création d'un site à partir d'une maquette graphique**
+
+
+
+* Projet :[ GitHub - g404-dev-web/project-privy: Création d'un site à...](https://github.com/g404-dev-web/project-privy)
+* Ressource :[ GNU Image Manipulation Program](https://docs.gimp.org/2.10/fr/)
+
+
+# 🏆 Objectifs
+
+
+
+* Comprendre les concepts de cascade, d'héritage et spécificité
+* Comprendre et maîtriser les bonnes pratiques de nommage de classes CSS
+* Maîtriser les bases de l'intégration web
