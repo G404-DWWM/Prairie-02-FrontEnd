@@ -10,7 +10,7 @@ Présentation : [Ux/Ui what's the flux ?](https://docs.google.com/presentation/d
 ### ⛳ Exercices   
 **Structure/Float**  
 * Exercices 1 à 5 : https://github.com/BasileKocheida/front-end-prairie
-* Ressources : All About Floats | CSS-Tricks
+* Ressources : [All About Floats | CSS-Tricks](https://css-tricks.com/all-about-floats/)
 
 
 **Responsive**  
